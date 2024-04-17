@@ -1,0 +1,17 @@
+{
+    "name": "Strona o żółwiach",
+    "short_name": "TurtleWWW",
+    "theme_color": "#42f715",
+    "background_color": "#ffd15c",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/PWA/",
+    "icons" : [
+        {
+            "src" : "./logo.png",
+            "sizes" : "512x512",
+            "type" : "image/png"
+        }
+    ]
+}
